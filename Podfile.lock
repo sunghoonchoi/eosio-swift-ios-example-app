@@ -30,7 +30,7 @@ DEPENDENCIES:
   - EosioSwiftSoftkeySignatureProvider (~> 0.1.1)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - BigInt
     - EosioSwift
     - EosioSwiftAbieosSerializationProvider
@@ -52,4 +52,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: a68fb6f269269d997ea8c12df5d81b77c1183e58
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.8.4
